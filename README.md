@@ -13,7 +13,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=TryDllFromMemory&theme=great-gatsby)](https://github.com/Unam3dd/TryDllFromMemory)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=Socket_Cpp_SSL&theme=great-gatsby)](https://github.com/Unam3dd/Socket_Cpp_SSL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=CppBuster&theme=great-gatsby)](https://github.com/Unam3dd/CppBuster)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=sqlivun&theme=great-gatsby)](https://github.com/Unam3dd/sqlivuln)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=sqlivuln&theme=great-gatsby)](https://github.com/Unam3dd/sqlivuln)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=Nscan&theme=great-gatsby)](https://github.com/Unam3dd/Nscan)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=URecon&theme=great-gatsby)](https://github.com/Unam3dd/URecon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Unam3dd&repo=W3bDir&theme=great-gatsby)](https://github.com/Unam3dd/W3bDir)
