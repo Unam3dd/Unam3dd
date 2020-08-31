@@ -1,5 +1,3 @@
-<center><img src="https://images.alphacoders.com/800/thumb-1920-800162.jpg"></center>
-
 <center><h3 style="color:green;">hi I'm Unam3dd I'm a young beginner passionate about programming and computer security since my youngest age</h3></center>
 <center><h3 style="color:green;">I code mainly in C++,C,Golang,Python but I also know Ruby,Javascript but I don't really use it I like pentest and reverse engineering</h3></center>
 
