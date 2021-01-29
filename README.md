@@ -4,4 +4,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@unam3dd&theme=dark&layout=compact">
 </p>
 
-<center>![Counter](https://gpvc.arturio.dev/Unam3dd)</center>
+![Counter](https://gpvc.arturio.dev/Unam3dd)
