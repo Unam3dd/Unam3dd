@@ -3,6 +3,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unam3dd&theme=dark&layout=compact&langs_count=10&hide=html,css">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@unam3dd&theme=dark&layout=compact&langs_count=10">
 </p>
-
-![Counter](https://gpvc.arturio.dev/Unam3dd)
-<a href="https://gist.github.com/Unam3dd">Github gist</a>
