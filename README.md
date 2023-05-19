@@ -12,9 +12,9 @@ Im currently student at 42, im passionate about cyber-security and low level pro
 * 🧠  I'm learning Reverse Engineering, Pwn, Cryptography and Low level programming.
 * 🤝  I'm open to collaborating on CyberSecurity & Low-Level projects.
 
-<h2 style="text-align: center;">Skills</h2>
+## Skills
 
-<p align="center"> TechStacks
+<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
  <a target="_blank" rel="noreferrer"><img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width="36" height="36" alt="Assembly"</a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
