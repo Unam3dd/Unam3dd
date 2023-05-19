@@ -12,8 +12,7 @@ Im currently student at 42, im passionate about cyber-security and low level pro
 * 🧠  I'm learning Reverse Engineering, Pwn, Cryptography and Low level programming.
 * 🤝  I'm open to collaborating on CyberSecurity & Low-Level projects.
 
-## Skills
-
+<h2 style="text-align: center;">Skills</h2>
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
