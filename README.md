@@ -6,7 +6,7 @@ Student passionate about IT-Sec & Low-Level programming
 
 Im currently student at 42, im passionate about cyber-security and low level programming since 6 years now
 
-* 🌍  I'm based in Bordeaux/Angouleme
+* 🌍  I'm based in France, Bordeaux/Angouleme
 * ✉️  You can contact me at [stales@student.42angouleme.fr](mailto:stales@student.42angouleme.fr)
 * 🚀  I'm currently working on [Opcode Decoder library and CTF tools.](http://github.com/Unam3dd/repository)
 * 🧠  I'm learning Reverse Engineering, Pwn, Cryptography and Low level programming.
