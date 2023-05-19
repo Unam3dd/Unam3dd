@@ -12,7 +12,7 @@ Im currently student at 42, im passionate about cyber-security and low level pro
 * 🧠  I'm learning Reverse Engineering, Pwn, Cryptography and Low level programming.
 * 🤝  I'm open to collaborating on CyberSecurity & Low-Level projects.
 
-<center><h2>Skills</h2></center>
+## Skills
 
 
 <p align="center">
