@@ -26,6 +26,7 @@ Im currently student at 42, im passionate about cyber-security and low level pro
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="36" height="36" alt="Docker" /></a>
+ <a target="_blank" rel="noreferrer"><img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width="36" height="36" alt="Assembly"</a>
 </p>
 
 
