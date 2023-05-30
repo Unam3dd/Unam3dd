@@ -40,3 +40,5 @@ Im currently student at 42, im passionate about cyber-security and low level pro
 <a href="http://www.github.com/Unam3dd"><img src="https://github-readme-stats.vercel.app/api?username=Unam3dd&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="Unam3dd's GitHub stats" /></a>
 
 <a href="http://www.github.com/Unam3dd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unam3dd&stroke=64748b&background=ffffff&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+
+![Github Gist](https://gist.github.com/Unam3dd)
