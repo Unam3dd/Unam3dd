@@ -41,4 +41,4 @@ Im currently student at 42, im passionate about cyber-security and low level pro
 
 <a href="http://www.github.com/Unam3dd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unam3dd&stroke=64748b&background=ffffff&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://gist.github.com/Unam3dd"/>
+<a href="https://gist.github.com/Unam3dd">Link</a>
